@@ -29,7 +29,7 @@ public class WebConfig {
 		
 		System.out.println("<<< WebConfig-1 >>>");
 		config.setAllowCredentials(true);
-		config.addAllowedOrigin("http://3.39.214.29:3000");
+		config.addAllowedOrigin("http://3.39.214.29:3000"); 
 		// config.addAllowedOrigin("http://localhost:3000");
 		config.setAllowedHeaders(Arrays.asList(
 					HttpHeaders.AUTHORIZATION,
