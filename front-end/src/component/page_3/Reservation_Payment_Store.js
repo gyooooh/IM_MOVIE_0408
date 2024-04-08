@@ -11,7 +11,7 @@ import { Cookies, useCookies } from "react-cookie";
 import StoreGift from "./StoreGift";
 
 const localHost = "http://localhost:3000/"; // 로컬
-const proHost = "http://3.39.155.236:3000/"; // 개벌
+const proHost = "http://3.39.214.29:3000/"; // 개벌
 
 let serverUrl;
 
